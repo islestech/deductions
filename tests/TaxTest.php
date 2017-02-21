@@ -9,7 +9,7 @@ class TaxTest extends TestCase
 
     public function testBasicReturnsNullOnValidAttempt()
     {
-        
+        $this->assertSame(1, 1);
     }
 
     
