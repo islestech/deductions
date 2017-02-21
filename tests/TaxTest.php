@@ -1,6 +1,6 @@
 <?php
 
-namespace Mannysoft\Tax\Tests;
+namespace Mannysoft\Tests;
 
 use PHPUnit\Framework\TestCase;
 
