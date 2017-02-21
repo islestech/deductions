@@ -16,6 +16,11 @@
     "require-dev": {
         "phpunit/phpunit": "~5.7"
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Mannysoft\\Tax\\Tests\\": "tests/"
+        }
+    },
     "config": {
         "sort-packages": true
     },
