@@ -1,0 +1,20 @@
+{
+    "name": "mannysoft/tax",
+    "description": "Tax Calulator for iHRMIS",
+    "keywords": ["payroll", "hr"],
+    "license": "MIT",
+    "homepage": "https://mannyisles.com",
+    "authors": [
+        {
+            "name": "Taylor Otwell",
+            "email": "taylor@laravel.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
