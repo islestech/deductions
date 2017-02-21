@@ -18,7 +18,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Mannysoft\\Tax\\Tests\\": "tests/"
+            "Mannysoft\\Tests\\": "tests/"
         }
     },
     "config": {
