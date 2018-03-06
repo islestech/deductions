@@ -1,8 +1,8 @@
 <?php
-namespace Mannysoft\Tests;
+namespace IslesTech\Tests;
 use PHPUnit\Framework\TestCase;
 
-class TaxTest extends TestCase
+class SSSTest extends TestCase
 {
 
     public function testSampleTest()
