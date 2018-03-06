@@ -7,6 +7,7 @@ class SSSTest extends TestCase
 
     public function testSampleTest()
     {
+        collect([]);
         $this->assertSame(1, 1);
     }
 
