@@ -1,2 +1,2 @@
-<a href="https://travis-ci.org/deductions/tax"><img src="https://travis-ci.org/deductions/tax.svg" alt="Build Status"></a>
+<a href="https://travis-ci.org/islestech/deductions"><img src="https://travis-ci.org/islestech/deductions.svg" alt="Build Status"></a>
 # All Deductions for Payroll
